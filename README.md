@@ -70,6 +70,31 @@ Progress Tracking
 Certificate Generation
 
 Notification System
+Project structure:
+udtech-internship-project
+│
+├── frontend
+│   ├── public
+│   └── src
+│       ├── components
+│       ├── pages
+│       ├── services
+│       └── assets
+│
+├── backend
+│   ├── controllers
+│   ├── models
+│   ├── routes
+│   ├── middleware
+│   └── server.js
+│
+├── database
+│   └── schema
+│
+├── docs
+│
+├── README.md
+└── package.json
 
 Contribution Guidelines
 
